@@ -126,3 +126,10 @@
   - Structural refinement of the methodology overview diagram completed.
   - Correction of the first of three data collections within the quantitative stage section completed.
   - Drafting of the second of three data collections within the quantitative stage section completed; revision pending.
+
+ ## 2026-03-06
+  - Correction of all three data collections within the quantitative stage section completed.
+  - Transition to another LLM following document handling issues while exporting a verbatim reference file 
+    for the methodology section, including unintended summarization and file overwrite, prompting concerns about 
+    data integrity, file handling safety, document preservation reliability, and data security, when used as an editorial 
+    assistant and clarity-support tool.
